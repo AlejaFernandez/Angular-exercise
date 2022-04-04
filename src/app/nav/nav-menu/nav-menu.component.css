@@ -1,0 +1,28 @@
+div{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    font-weight: bold;
+    font-size: small;
+    
+}
+
+ul{
+    display:flex;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+    flex-wrap: wrap;
+}
+li{
+    list-style: none;
+    padding: 5px 15px;
+}
+a{
+    text-decoration: none;
+    padding-top: 4px;
+    color: white
+}
+li:hover{
+    background-color: rgb(27, 72, 31);
+}

@@ -1,0 +1,22 @@
+.right{
+    background-color: #fff;
+}
+.Anuncio__title{
+    display: flex;
+    align-items: center;
+    background-color: #79a876
+    
+
+}
+.Anuncio__title h2{
+    font-size: smaller;
+    color: #fff;
+    padding-left: 10px;
+    margin: 0;
+    padding: 3.5px;
+}
+.Anuncio__title i{
+    color: #fff;
+    background-color: #277f31;
+    padding: 5px;
+}
