@@ -21,8 +21,9 @@ li{
 a{
     text-decoration: none;
     padding-top: 4px;
-    color: white
+    color: white;
+    padding-right: 9px;
 }
 li:hover{
-    background-color: rgb(27, 72, 31);
+    background-color: #277f31;;
 }
